@@ -1,8 +1,1 @@
-# Urdu Primer A4 Color
-
-This repository contains the Urdu primer content for children in A4 format. The main file is Urdu_Primer_A4_Color.pdf (plain text placeholder).
-
-Font recommendation: Jameel Noori Nastaleeq
-Icons: Flat colorful non-living icons (recommended)
-
-You can download the PDF file from the repository.
+Repository for Urdu primer A4 color. Updated placeholder PDF with improved book-like content. Will replace with final designed PDF with embedded font and colorful icons on next update.
